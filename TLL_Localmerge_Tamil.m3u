@@ -558,3 +558,37 @@ http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Arunai TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Kavin TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",MAYA TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Mon Tamil
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",TVi1
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",TVi2
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",Orange TV
+http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",JM TV
+http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Local",CTN 2
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Premium",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
