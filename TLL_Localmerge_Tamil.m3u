@@ -25,11 +25,11 @@ https://iptelevision.in/hls/nagaramtv.m3u8
 https://stream.sscloud7.com/sachinmusic.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL 
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",KARTHI MUSIC TV 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/34pTKf3/abinaya-tv.png" group-title="TLL MUSIC",KARTHI MUSIC TV 
 http://bmlive.net:8000/karnan/karthimusic/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="TLL MUSIC",KALAI ISAI 
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",LIVESAI TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="TLL MUSIC",LIVESAI TV
 https://live.sscloud7.com/hls/livesaitv.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgMusic.jpeg?alt=media&token=0807ada0-4a77-4b78-a4a0-21822c54aedd" group-title="TLL MUSIC", G MUSIC TV 
 https://rasi.iptelevision.in/hls/gmusic.m3u8
@@ -37,13 +37,13 @@ https://rasi.iptelevision.in/hls/gmusic.m3u8
 http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR#EXTM3U
 #EXTINF:-1, tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="TLL MUSIC",3 TAMIL 
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1,group-title="TLL MUSIC",SPICE TV 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/QXRHJKR/spice.jpg" group-title="TLL MUSIC",SPICE TV 
 https://iptelevision.in/spicetv.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",SKY TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/qgZyPr9/sky-tv-1.png" group-title="TLL MUSIC",SKY TV
 http://198.144.149.82:8080/NOTV/SKYTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TLL MUSIC",YOGAA TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/B2sqVz0/yogaa-tv.png" group-title="TLL MUSIC",YOGAA TV
 http://hdserver.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
-#EXTINF:-1,group-title="TLL MUSIC",BONUS HD TV 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/XyJv2Kt/bouns-hd-tv.png" group-title="TLL MUSIC",BONUS HD TV 
 http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="TLL MUSIC",JR TV
 https://live1.sscloud7.com/jrtv.m3u8
