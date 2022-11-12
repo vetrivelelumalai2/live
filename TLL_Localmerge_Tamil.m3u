@@ -529,7 +529,7 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
-#EXTINF:-1, tvg-id="abcmedias.com" group-title="TLL cloud tamil", Thirumalai TV
+#EXTINF:-1, tvg-id="abcmedias.com" group-title="TLL cloud tamil", Tirumalai TV KARUR
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="TLL cloud tamil",7sMusic
@@ -592,3 +592,15 @@ http://bmlive.net:8000/ctn/ctn/bms.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="TLL cloud tamil", Hello TV
+http://stream.singamcloud.in/hellotv/hellotv/index.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="TLL cloud tamil", SJS TV
+http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="TLL cloud tamil", Bluemoon TV
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="TLL cloud tamil", Neem TV
+http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
