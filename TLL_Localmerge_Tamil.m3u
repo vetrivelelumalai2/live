@@ -5,7 +5,7 @@ http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 http://server1.phoenixcreations.online:1935/live/malartv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1657428997_VinMusic.jpg" group-title="TLL MUSIC", VINAYAGA MUSIC TV 
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://images.search.yahoo.com/images/view;_ylt=Awrg0WkysG9ju6EAw0uJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzI2ZWM4OWU3YmU3MmE2ZjYwZDFkMTQzMGNhYjk1ODgzBGdwb3MDMTEEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dsr%2Bmusix%26type%3DE211US105G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D11&w=170&h=170&imgurl=cdn.apk-cloud.com%2Fdetail%2Fimage%2Fcom.sevenstarmedia.srmusix-w130.png&rurl=https%3A%2F%2Fapk-dl.com%2Ftamil-cloud%2Fcom.sevenstarmedia.tamilcloud&size=55.3KB&p=sr+musix&oid=26ec89e7be72a6f60d1d1430cab95883&fr2=piv-web&fr=mcafee&tt=Tamil+Cloud+1.0.1+APK+Download+-+Android+Entertainment+Apps&b=0&ni=21&no=11&ts=&tab=organic&sigr=oJZclNt_z_ns&sigb=mpWWGFV3Jspg&sigi=V7ExwST6fuwR&sigt=LAX8uCwLQ1Qm&.crumb=gdsYDuoE0d5&fr=mcafee&fr2=piv-web&type=E211US105G0" group-title="TLL MUSIC",SR MUSIX 
+#EXTINF:-1,tvg-logo="https://ibb.co/r5Khvfd" group-title="TLL MUSIC",SR MUSIX 
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="TLL MUSIC", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
