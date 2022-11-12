@@ -5,6 +5,8 @@ http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 http://server1.phoenixcreations.online:1935/live/malartv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1657428997_VinMusic.jpg" group-title="TLL MUSIC", VINAYAGA MUSIC TV 
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 group-title="TLL MUSIC",SR MUSIX 
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="TLL MUSIC", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="TLL MUSIC",SINGAM TV 
@@ -73,8 +75,6 @@ https://eagle.iptelevision.in/hls/appletv.m3u8
 http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",N MUSIC TV 
 http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TLL MUSIC",SR MUSIX 
-http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo= "https://i.ibb.co/pyx28Ly/ss-varma.png" group-title="TLL MUSIC",SS VARMA 
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:-1 group-title=" TLL MUSIC",MM TV 
@@ -87,8 +87,6 @@ http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
 https://iptelevision.in/hls/thendral.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",ABHINAYA TV 
 http://singamcloud.in/purpletv/purpletv/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",RASI MUSIC 
-http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",KAPPA TV 
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",M MUSIC 
@@ -604,3 +602,6 @@ http://bmlive.net:8000/bms/bmtv/bms.m3u8
 
 #EXTINF:-1,tvg-logo="" group-title="TLL cloud tamil", Neem TV
 http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
+
+#EXTINF:-1 group-title="TLL cloud tamil",RASI MUSIC 
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
