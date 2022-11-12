@@ -9,7 +9,7 @@ http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="TLL MUSIC",SINGAM TV 
 http://singamcloud.in/singamtv/singamtv/index.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL MUSIC", Sachin TV
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL MUSIC", Sachin Main TV
 http://server2.phoenixcreations.online:5080/live/streams/sachintv.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN 
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
