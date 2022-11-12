@@ -9,6 +9,8 @@ http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="TLL MUSIC",SINGAM TV 
 http://singamcloud.in/singamtv/singamtv/index.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL MUSIC", Sachin Main TV
+http://server2.phoenixcreations.online:5080/live/streams/sachintv.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN 
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" " group-title="TLL MUSIC", SMCV TV
@@ -486,8 +488,6 @@ http://tv2.massstream.net/Masstv/index.m3u8
 rtmp://nazking.dscloud.me:1935/livestream/stream
 #EXTINF:-1 tvg-id="1" group-title="TLL Tamil LCO",ACN TV
 rtmp://stream1.playbox.co.in:1935/babatv/babatv
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL Tamil LCO", Sachin TV
-http://server2.phoenixcreations.online:5080/live/streams/sachintv.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/subashtv/img/core-img/subashtv.png" group-title="TLL Tamil LCO",Subash TV
 http://server2.phoenixcreations.online:5080/live/streams/subashtv.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/sasitv.png" group-title="TLL Tamil LCO", Sasi TV
