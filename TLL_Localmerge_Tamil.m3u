@@ -486,10 +486,7 @@ http://tv2.massstream.net/Masstv/index.m3u8
 rtmp://nazking.dscloud.me:1935/livestream/stream
 #EXTINF:-1 tvg-id="1" group-title="TLL Tamil LCO",ACN TV
 rtmp://stream1.playbox.co.in:1935/babatv/babatv
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/subashtv/img/core-img/subashtv.png" group-title="TLL Tamil LCO",Subash TV
-http://server2.phoenixcreations.online:5080/live/streams/subashtv.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/sasitv.png" group-title="TLL Tamil LCO", Sasi TV
-http://server2.phoenixcreations.online:5080/live/streams/sasitv.m3u8
+
 
 #EXTINF:0 group-title="TLL cloud tamil" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw", JAWAHAR TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -605,3 +602,8 @@ http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
 
 #EXTINF:-1 group-title="TLL cloud tamil",RASI MUSIC 
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/subashtv/img/core-img/subashtv.png" group-title="TLL cloud tamil",Subash TV
+http://server2.phoenixcreations.online:5080/live/streams/subashtv.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/sasitv.png" group-title="TLL cloud tamil", Sasi TV
+http://server2.phoenixcreations.online:5080/live/streams/sasitv.m3u8
