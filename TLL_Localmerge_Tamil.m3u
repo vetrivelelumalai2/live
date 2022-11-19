@@ -238,29 +238,29 @@ http://bmlive.net:8000/karnan/rojatv/bms.m3u8
 #EXTM3U
 
 
-#EXTINF:-1 group-title="TLL Tamil LCO", KUMARI TV 
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw" group-title="TLL Tamil LCO", KUMARI TV 
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FttvKanchi.png?alt=media&token=f8a85b44-9cb0-4572-affd-ff7a8ebe134b" group-title="TLL Tamil LCO",TTV KANCHI 
 http://198.144.149.82:8080/NOTV/TTV/index.m3u8
 #EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhavaniSangamamTv.png?alt=media&token=38795242-d3ca-4b47-954e-a9a66d0777e0" group-title="TLL Tamil LCO",Bhavani Sangmam TV
 http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/jenifertv/img/core-img/jenifertv.png" group-title="TLL Tamil LCO",JENIFER TVHD
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/0gyxXVfumzvALZF5twb2EPNMyqP6G43lJgBDJlbjBenoZne7LjTHW9Ds76XE2NZYD7jx=w480-h960-rw" group-title="TLL Tamil LCO",JENIFER TVHD
 http://server2.phoenixcreations.online:5080/live/streams/jenifertv.m3u8
 #EXTINF:-1,group-title="TLL Tamil LCO", VINAYAGA TV 
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",BOSS TV
 http://183.87.51.10:80/hls/vasantv.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/josetv/img/core-img/josetv.png"group-title="TLL Tamil LCO",Jose TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hpvq0ism_mxJ87OtthUglCRBMkG5-7qo-sjRj1kS5P961p4kcw50qMT0xGRI5-vZhVMh=w480-h960-rw"group-title="TLL Tamil LCO",Jose TV
 http://server2.phoenixcreations.online:5080/live/streams/josetv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",SUKRA TV
+#EXTINF:-1, tvg-logo = "https://play-lh.googleusercontent.com/c2qlBbPZS_9Gp5YbUjITbrfJBE3d9fGWASaTVCJaus_F8yZwcIHUFLR9S3fHgd4Ia7s=w480-h960-rw" group-title="TLL Tamil LCO",SUKRA TV
 http://server2.phoenixcreations.online:5080/live/streams/sukratv.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/raghultv/img/core-img/raghultv.png" group-title="TLL Tamil LCO",RAGHUL TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OVdwUScDMv8cbhiVbeA66MEgKDgDRpzZw1JQahCDOgvrNDremjXZJM4uL-D2VE2WggJT=w480-h960-rw" group-title="TLL Tamil LCO",RAGHUL TV
 http://server2.phoenixcreations.online:5080/live/streams/raghultv.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/toptv/img/core-img/toptv.jpg" group-title="TLL Tamil LCO",TOP TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c0QQntk1Dh1qoRte2HUYdVdiue-HePcAU8jq2srS0lEpTrDQ3EziTdaRj0PUm4KJlGs=w480-h960-rw" group-title="TLL Tamil LCO",TOP TV
 http://server2.phoenixcreations.online:5080/live/streams/toptv.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/limetv/img/core-img/limetv.png" group-title="TLL Tamil LCO",LIME TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="TLL Tamil LCO",LIME TV
 http://server2.phoenixcreations.online:5080/live/streams/limetv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",BAMA HD TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/dFwaSTm2m91d1PrCHW-u6f3gwodMUA_uU9rtQyFkj5_de0E6U-SJh3KQlHtMNOXoug=w480-h960-rw" group-title="TLL Tamil LCO",BAMA HD TV
 http://livematrix.in:80/bamahd/bamahd.m3u8
 #EXTINF:-1,group-title="TLL Tamil LCO", RIO TV 
 http://stream.singamcloud.in/riotv/riotv/index.m3u8
