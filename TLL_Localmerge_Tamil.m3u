@@ -9,7 +9,7 @@ http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="TLL MUSIC", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
-#EXTINF:-1,tvg-logo="" group-title="TLL MUSIC",CHILLY MUSIC
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/SfoNNI8K8tahQpvGrN5lwY2WAPTyvhj9_DmTFkOi_cwZYaT-Eb8k8qeljvk9VokK6m4A=w480-h960-rw" group-title="TLL MUSIC",CHILLY MUSIC
 https://server1.iptelevision.in/hls/chilly.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="TLL MUSIC",SINGAM TV 
 http://singamcloud.in/singamtv/singamtv/index.m3u8
@@ -231,7 +231,7 @@ rtmp://live.singamcloud.in:1935/thenraltv/thenraltv
 rtmp://live.singamcloud.in:1935/anandhamtv/anandhamtv
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FluckyTV.jpeg?alt=media&token=cdb3ccd1-3381-41eb-901a-5da6a622c240" " group-title="TLL LOCAL HD", Lucky TV
 rtmp://singamcloud.in:1935/luckytv/luckytv
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SfoNNI8K8tahQpvGrN5lwY2WAPTyvhj9_DmTFkOi_cwZYaT-Eb8k8qeljvk9VokK6m4A=w480-h960-rw" group-title="TLL LOCAL HD",Roja TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VMm3G7Pg3c3WnqyxWohnmCUDLTkVJjIc_85YnqbpMTTPr_kE3px5RZL88Sfc-H12-gM=w480-h960-rw" group-title="TLL LOCAL HD",Roja TV
 http://bmlive.net:8000/karnan/rojatv/bms.m3u8
 
 
