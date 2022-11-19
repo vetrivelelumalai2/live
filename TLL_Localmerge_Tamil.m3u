@@ -324,19 +324,19 @@ http://livematrix.in:80/sartv/sartv.m3u8
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO", SAKTHI TV HD 
 http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", ANNAI TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/1-SHfDgEcW14z8IEoJPrTbADKFToHRqvI54-hFuU8Hc9zY_jqCQlAKl8hysF4nfPNVk=w480-h960-rw" group-title="TLL Tamil LCO", ANNAI TV 
 http://nextgeninfotech.ddns.net:8080/annai/annai.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO", GD TV 
 http://nextgeninfotech.ddns.net:8080/gdtv/gdtv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", SMILE TV HD 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/bz7sFgFo_UOxXXuZ9AV_9VDzHGuSf4ZXS5HO42qfnwu6JfeeMLCcg7N2uzW2PSMtIxSM=w480-h960-rw" group-title="TLL Tamil LCO", SMILE TV HD 
 http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO", 3StarHLS
 http://jaaltv.livebox.co.in:80/3startvhls/live.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", Dinesh TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/fRjvaqAh--W_KphqTZyx9fZbArl3tZmnkyfHPL1aPYndd354xiCWiGlWL4GkUo4fJF6k=w480-h960-rw" group-title="TLL Tamil LCO", Dinesh TV 
 http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", JAYAAM TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/dKDBoV6rbZOtyTMK_dlGN5r4Nlytt7kOQDcFaMVmcnjDSuPpSyqyOA-dvcYsvKfVbpk=w480-h960-rw" group-title="TLL Tamil LCO", JAYAAM TV
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",AADHAVAN TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/y1I4aqAylLpNB3eNhF41eoeloYQtddkeWmX__noGzlC0zsJcp-yH_9V8M5_6MwcV2Q=w480-h960-rw" group-title="TLL Tamil LCO",AADHAVAN TV 
 http://7starcloud.com:1935/adhavantv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",SANGAMAM TV
 http://livematrix.in:80/sangamamtv/sangamamtv.m3u8
@@ -346,7 +346,7 @@ http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
 https://wmoy8ngoy2a7-hls-live.5centscdn.com/rjtamil/livetv/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",KVM
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",NILA TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/0657tmsIwD8jJb81Dty9rAsJDf1QBrw-3IEC1921zIVCSJzex0i1ps0KiP6QPeaqloGJ=w480-h960-rw" group-title="TLL Tamil LCO",NILA TV
 http://shinestream.in:1935/nilatv/nilatv/chunklist_w1227667328.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",JEEVAN TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
@@ -486,9 +486,9 @@ http://bmlive.net:8000/karnan/ambika/bms.m3u8
 http://198.144.149.82:8080/NOTV/VAGAITV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" " group-title="TLL Tamil LCO", MASS TAMIL HD TV
 http://tv2.massstream.net/Masstv/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="TLL Tamil LCO",ACN TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/VXUE218YyNEKgAiKhS6P1Ai-gYUrx6bDw1nhfWaH7izIM5PUfVb0xvj44J1AkICyeKs=w480-h960-rw" tvg-id="1" group-title="TLL Tamil LCO",ACN TV
 rtmp://stream1.playbox.co.in:1935/babatv/babatv
-#EXTINF:-1 tvg-logo="" group-title="TLL Tamil LCO",Arunai TV
+#EXTINF:-1,tvg-logo="https://play.google.com/store/apps/details?id=com.app.arunai.tv&hl=en" group-title="TLL Tamil LCO",Arunai TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
 
 #EXTM3U
