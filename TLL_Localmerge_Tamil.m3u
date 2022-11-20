@@ -404,11 +404,11 @@ https://accountapk.livebox.co.in/vidyaltvhls/live.m3u8
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",JAI TV
 https://server2.iptelevision.in/hls/jaitv.m3u8
-#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/87DDXV_7dJOBYChcLnY8uln45mzhaNqJCEw0NpG0JzDiArWGbde1EE1dX6SxjpSNEkE=w240-h480-rw" group-title="TLL Tamil LCO",ACCORD TV
+#EXTINF:-1,tvg-logo = "" group-title="TLL Tamil LCO",ACCORD TV
 https://mobile.iptelevision.in/hls/accordvoice.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",RTV
 https://account7.livebox.co.in/RTVhls/live.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",VTV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/87DDXV_7dJOBYChcLnY8uln45mzhaNqJCEw0NpG0JzDiArWGbde1EE1dX6SxjpSNEkE=w240-h480-rw" group-title="TLL Tamil LCO",VTV
 https://stream6.livebox.co.in/vtvplushls/live.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/MWNpC3cV2MXMjgk9YsZMGwBxP7C1l8Uc2Jb42sUb0d_tvl9tiL5QxYNz12HDiggdjPo=w240-h480-rw" group-title="TLL Tamil LCO",NEOTAMIL TV
 https://server2.iptelevision.in/newtamil.m3u8
