@@ -123,9 +123,9 @@ http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
 https://murugan.iptelevision.in/hls/karthik.m3u8 
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/3Qu2JZuZjU_zhO57nLVtVnVJJO4nuc8VZvl1Kmjm5XQ-o4_bGqvkxp-YB_lpjqHieA=w240-h480-rw" group-title="TLL LOCAL HD", G TV 
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", PR TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/E682c31psRuCXEARLqC54HLbgQyyiSFGiA-nJdTiCFWW9g3EWLoS955tdy_9VhdQFw=w240-h480-rw" group-title="TLL LOCAL HD", PR TV 
 http://51.79.250.111/live/prtv.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", RPK TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/U7--vTQgnWuU3m4G53waPRm7zMxlPI7qf35fA5lhzd6co3w8CYkhqxRpaPEt_LdAepo=w240-h480-rw" group-title="TLL LOCAL HD", RPK TV 
 http://183.87.51.10/hls/rpktv.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",NSK TV 
 https://iptelevision.in/hls/nsktv.m3u8
