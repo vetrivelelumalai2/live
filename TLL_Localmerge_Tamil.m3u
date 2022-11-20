@@ -99,7 +99,7 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",YATRA TV 
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",CSK TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/ae-8aFqpYw_QFqPjTNbIB30cC--XMFg1VgCPnsenHqRDQx76byYDjqORFcQ3xWtsVfU=s75-rw" group-title="TLL MUSIC",CSK TV 
 http://7starcloud.com:1935/csktv/live/playlist.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",D24 HINDI MUSIC 
 http://103.151.157.112:1935/manik/live/playlist.m3u8
