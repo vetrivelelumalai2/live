@@ -418,7 +418,7 @@ https://live.sscloud7.com/livepcv.m3u8
 https://sscloud7.com/yathratv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",T24 TV
 https://live1.sscloud7.com/t24tv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",MANASU TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/qnIXAbVocmbXO5QxowinRsRosoMfvoA3LEyNNk2O3PKeyTXjQZEw73D-GXpL9Gsx_yBg=w240-h480-rw" group-title="TLL Tamil LCO",MANASU TV
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",BBTV TV
 https://server.ashokatv.com/bbtv.m3u8
