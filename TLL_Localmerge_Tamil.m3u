@@ -394,7 +394,7 @@ http://nextgeninfotech.ddns.net:8080/selfiemedia/selfiemedia.m3u8
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",SENTHIL TV
 http://nextgeninfotech.ddns.net:8080/senthil/senthil.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",TIRUPUR TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/GWRs1dgsLahu7dYJAEyW26ygV66rPro1KcybOdI3gkWeTILien3_kCIN4AK1qs-IRQU=w240-h480-rw" group-title="TLL Tamil LCO",TIRUPUR TV
 https://server3.iptelevision.in/hls/tirupurtv.m3u8p
 #EXTINF:-1 group-title="TLL Tamil LCO",CHENNAI TV
 https://5c75277727cd1.streamlock.net/chennaiitv/chennaiitv/playlist.m3u8
@@ -404,7 +404,7 @@ https://accountapk.livebox.co.in/vidyaltvhls/live.m3u8
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",JAI TV
 https://server2.iptelevision.in/hls/jaitv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",ACCORD TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/87DDXV_7dJOBYChcLnY8uln45mzhaNqJCEw0NpG0JzDiArWGbde1EE1dX6SxjpSNEkE=w240-h480-rw" group-title="TLL Tamil LCO",ACCORD TV
 https://mobile.iptelevision.in/hls/accordvoice.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",RTV
 https://account7.livebox.co.in/RTVhls/live.m3u8
@@ -414,7 +414,7 @@ https://stream6.livebox.co.in/vtvplushls/live.m3u8
 https://server2.iptelevision.in/newtamil.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",PCV TV
 https://live.sscloud7.com/livepcv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",YATHRA TV
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/qnIXAbVocmbXO5QxowinRsRosoMfvoA3LEyNNk2O3PKeyTXjQZEw73D-GXpL9Gsx_yBg=w240-h480-rw" group-title="TLL Tamil LCO",YATHRA TV
 https://sscloud7.com/yathratv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",T24 TV
 https://live1.sscloud7.com/t24tv.m3u8
