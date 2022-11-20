@@ -492,6 +492,12 @@ http://198.144.149.82:8080/NOTV/VAGAITV/tracks-v1a1/mono.m3u8?token=GTR
 http://tv2.massstream.net/Masstv/index.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/VXUE218YyNEKgAiKhS6P1Ai-gYUrx6bDw1nhfWaH7izIM5PUfVb0xvj44J1AkICyeKs=w480-h960-rw" tvg-id="1" group-title="TLL Tamil LCO",ACN TV
 rtmp://stream1.playbox.co.in:1935/babatv/babatv
+#EXTINF:-1, tvg-logo="http://www.vaigaitv.com/images/source/images/live-tv-01.jpg" " group-title="TLL Tamil LCO", Vaigai TV
+http://f0736070.xsph.ru/tll_local.php?ch=vaigai&pass=1234
+#EXTINF:-1, tvg-logo="http://www.vaigaitv.com/images/source/images/live-tv-01.jpg" " group-title="TLL Tamil LCO", Vaigai Virudhunagar TV
+http://f0736070.xsph.ru/tll_local.php?ch=virudhunagar&pass=1234
+#EXTINF:-1, tvg-logo="http://www.vaigaitv.com/images/source/images/live-tv-01.jpg" " group-title="TLL Tamil LCO", Vaigai Madurai TV
+http://f0736070.xsph.ru/tll_local.php?ch=madurai&pass=1234
 #EXTINF:-1,tvg-logo="https://play.google.com/store/apps/details?id=com.app.arunai.tv&hl=en" group-title="TLL Tamil LCO",Arunai TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="TLL Tamil LCO",NRS TV
