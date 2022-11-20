@@ -17,6 +17,8 @@ http://singamcloud.in/singamtv/singamtv/index.m3u8
 http://server2.phoenixcreations.online:5080/live/streams/sachintv.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN 
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
+#EXTINF:-1,group-title="TLL MUSIC", ARUL TV 
+https://eagle.iptelevision.in/hls/arultv.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" " group-title="TLL MUSIC", SMCV TV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.tamilolitv.com/uploads/logo/logo_5cdb296cd50d4.png" group-title="TLL MUSIC",TAMILOLI TV
@@ -117,8 +119,6 @@ http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
 http://139.99.96.85:1935/lotustv/live/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",DEVADHAI TV 
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", ARUL TV 
-https://eagle.iptelevision.in/hls/arultv.m3u8
 #EXTINF:-1,group-title="TLL LOCAL HD", KARTHI TV 
 https://murugan.iptelevision.in/hls/karthik.m3u8 
 #EXTINF:-1,group-title="TLL LOCAL HD", G TV 
@@ -492,8 +492,6 @@ rtmp://stream1.playbox.co.in:1935/babatv/babatv
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="TLL cloud tamil", Star Vijay Takkar
-http://46.101.11.183:25461/live/tamil/tamil/1.m3u8
 #EXTINF:0 group-title="TLL cloud tamil" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw", JAWAHAR TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
