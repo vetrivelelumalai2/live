@@ -500,7 +500,12 @@ https://live1.sscloud7.com/hls/nrstv.m3u8
 https://mobile.iptelevision.in/hls/accordvoice.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="TLL Tamil LCO",VDS TV
 http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
-
+#EXTINF:-1,tvg-logo="" group-title="TLL Tamil LCO",Suriyan Nextgen TV
+http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/7OFxT3hc31CM9V4RjfWMBOgKYURUCXOYnq1t9IfU4IdbvkOjVqWxvdei0KXoKKYbJQ=w240-h480-rw" group-title="TLL Tamil LCO",Web TV
+https://account21.livebox.co.in/webadugatvhls/live.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/8MKyZgBiyF45zhiQ2lgWRSt2aQlewF1sThE2mdDstYPnDwQ8uGYAOq_PawaeKJqJk9o=w240-h480-rw" group-title="TLL Tamil LCO",SAI Network TV
+https://account2.livebox.co.in/saitvhls/live.m3u8
 
 #EXTM3U
 #EXTINF:0 group-title="TLL cloud tamil" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw", JAWAHAR TV
