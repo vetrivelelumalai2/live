@@ -514,8 +514,8 @@ https://live.sscloud7.com/hls/jostv.m3u8
 https://live.sscloud7.com/hls/ssstv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/HwAxBfvYnVONPV82QxbaCOvbNjC3Xc7jZgMWCNusF_eLDbUHZhAUB2W8y0AL_KHb8w=w240-h480-rw" group-title="TLL Tamil LCO",OM SHAKTHI TV
 https://live1.sscloud7.com/hls/omsakthitv.m3u8
-#EXTINF:-1,tvg-logo="" group-title="TLL Tamil LCO",Vaigai TV
-https://player.vimeo.com/video/772924420?api=1&player_id=player1
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/uMCqldnh2H_JPGeqG4yU0KImJO0f36Px8PyFfupUJvOZP5ZtHnzpFSWupape8-wHqfc=w240-h480-rw" group-title="TLL Tamil LCO",Vetri Media TV
+https://stream.sscloud7.com/hls/vetritv.m3u8
 
 
 
