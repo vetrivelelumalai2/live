@@ -31,7 +31,7 @@ https://iptelevision.in/hls/nagaramtv.m3u8
 https://stream.sscloud7.com/sachinmusic.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png" group-title="TLL MUSIC",ISAI SARAL 
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/34pTKf3/abinaya-tv.png" group-title="TLL MUSIC",KARTHI MUSIC TV 
+#EXTINF:-1,tvg-logo="https://i.ibb.co/34pTKf3/abinaya-tv.png" group-title="TLL MUSIC",KARTHI MUSIC TV 
 http://bmlive.net:8000/karnan/karthimusic/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="TLL MUSIC",KALAI ISAI 
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
