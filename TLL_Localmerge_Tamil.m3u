@@ -105,7 +105,7 @@ http://7starcloud.com:1935/csktv/live/playlist.m3u8
 http://103.151.157.112:1935/manik/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://n5tv.in/upload/source/logo%(9).png" group-title="TLL MUSIC",N5 TV
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsdMedia.jpg?alt=media&token=4bd0ac52-229c-4df8-ab61-5e48ab9dc235" " group-title="TLL MUSIC", SD Media
+#EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsdMedia.jpg?alt=media&token=4bd0ac52-229c-4df8-ab61-5e48ab9dc235" " group-title="TLL MUSIC", SD Media
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjjMaxHd.png?alt=media&token=0c58b222-6cb5-4ee4-b17e-750dc4bb86db" " group-title="TLL MUSIC", JJ Max HD
 http://bmlive.net:8000/appletv/jjmax/bms.m3u8
@@ -115,7 +115,7 @@ http://bmlive.net:8000/appletv/jjmax/bms.m3u8
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
 #EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FasokaTv.jpeg?alt=media&token=e5cf545c-c2e2-4f0a-9bfb-a7fd52e572c4"group-title="TLL LOCAL HD", ASHOKA TV 
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
-#EXTINF:-1,tvg-logo "https://play-lh.googleusercontent.com/zDAnyaHHoDF0_pTrXGB_BR41BAfVbYWZfkxEp0ZW3RNLciv0TxFqc_-sx8AD_b1Is6dh=w240-h480-rw" group-title="TLL LOCAL HD",LOTUS TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/zDAnyaHHoDF0_pTrXGB_BR41BAfVbYWZfkxEp0ZW3RNLciv0TxFqc_-sx8AD_b1Is6dh=w240-h480-rw" group-title="TLL LOCAL HD",LOTUS TV 
 http://139.99.96.85:1935/lotustv/live/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",DEVADHAI TV 
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
