@@ -448,8 +448,8 @@ http://198.144.149.82:8080/NOTV/MADDYTV/index.m3u8
 https://server3.iptelevision.in/hls/dharapuram.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Bharani Media TV 
 http://nikinfo.in:1935/nikstream/baranimedia/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", SUBIN TV 
-http://nikinfo.in:1935/nikstream/subintv/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/15SYoZc_Ris_TrrUQcLNjWCXL4Py_xLruhVDVLCNlAewB5jUaT_YqGzyVaMDgmfyA3Jg=w240-h480-rw" group-title="TLL Tamil LCO", SUBIN TV 
+https://stream.sscloud7.com/hls/subintv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO", JEIYAN TV 
 http://198.144.149.82:8080/NOTV/JEIYANTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL Tamil LCO", AK TV 
@@ -506,6 +506,16 @@ http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
 https://account21.livebox.co.in/webadugatvhls/live.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/8MKyZgBiyF45zhiQ2lgWRSt2aQlewF1sThE2mdDstYPnDwQ8uGYAOq_PawaeKJqJk9o=w240-h480-rw" group-title="TLL Tamil LCO",SAI Network TV
 https://account2.livebox.co.in/saitvhls/live.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/FvkjCrWmYV__Sl4_7wf0ScZrrHcHfYlo3-6JmRn0NkxTXJ7IGHLoMLqa576xrHXMU-dc=w240-h480-rw" group-title="TLL Tamil LCO",SAI Tenkasi TV
+https://live.sscloud7.com/hls/livesaitv.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/O-pEvc6NETNI5O9k7wqilDq25ZYznJnu-OkSElxVY68arGiWuchQ1nFypWnp1pQf9CWo=w240-h480-rw" group-title="TLL Tamil LCO",JOS TV
+https://live.sscloud7.com/hls/jostv.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/7qHJeBlm4sfbn7Uygt5K8cOyoSaAB8WUhtbYxPY7adxh43hDBy2LPSj-gSn5lR7tjdDE=w240-h480-rw" group-title="TLL Tamil LCO",SRI SHIVA SHAKTHI TV
+https://live.sscloud7.com/hls/ssstv.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/HwAxBfvYnVONPV82QxbaCOvbNjC3Xc7jZgMWCNusF_eLDbUHZhAUB2W8y0AL_KHb8w=w240-h480-rw" group-title="TLL Tamil LCO",OM SHAKTHI TV
+https://live1.sscloud7.com/hls/omsakthitv.m3u8
+
+
 
 #EXTM3U
 #EXTINF:0 group-title="TLL cloud tamil" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw", JAWAHAR TV
