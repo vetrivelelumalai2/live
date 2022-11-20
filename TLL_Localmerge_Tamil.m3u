@@ -205,7 +205,7 @@ http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD", ANBU TV 
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",RAAGAM TV
+#EXTINF:-1.tvg-logo = "https://play-lh.googleusercontent.com/TBTYG4xZ-xeiy-v9YNQcKlRgXHlBLtodhDbVQrAPMEtF2ELpqBovAD4mEgt9o-jffcA=w240-h480-rw" group-title="TLL LOCAL HD",RAAGAM TV
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
 #EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837"  group-title="TLL LOCAL HD",AMMA TV LOCAL
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
