@@ -233,6 +233,10 @@ rtmp://live.singamcloud.in:1935/anandhamtv/anandhamtv
 rtmp://singamcloud.in:1935/luckytv/luckytv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VMm3G7Pg3c3WnqyxWohnmCUDLTkVJjIc_85YnqbpMTTPr_kE3px5RZL88Sfc-H12-gM=w480-h960-rw" group-title="TLL LOCAL HD",Roja TV
 http://bmlive.net:8000/karnan/rojatv/bms.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ReC0sLVTEumA_zHAzZikfVjswWI-QiSbEhL7Nt8TCr0GDd3OVU7dK5_F23m1JhhvDqE=w240-h480-rw" group-title="TLL LOCAL HD",Ezhil TV
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MKFWxDIFEocGOjWll97Ic2rsUDA9OaK6ZvjrdTrCWeE8BZoOZclCjXcmFoSGMbnNVrs=w240-h480-rw" group-title="TLL LOCAL HD",Nila TV Erode
+http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 
 
 #EXTM3U
