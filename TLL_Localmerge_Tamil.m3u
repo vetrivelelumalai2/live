@@ -45,7 +45,8 @@ http://bmlive.net:8000/karnan/karthimusic/bms.m3u8
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
 #EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1597734373_sana.png" group-title="TLL MUSIC", Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgMusic.jpeg?alt=media&token=0807ada0-4a77-4b78-a4a0-21822c54aedd" group-title="TLL MUSIC", G MUSIC TV 
 https://rasi.iptelevision.in/hls/gmusic.m3u8
 #EXTINF:-1, tvg-logo="https://austamil.tv/wp-content/uploads/2022/05/Aus-Logo.png" group-title="TLL MUSIC",AUS TAMIL 
@@ -125,6 +126,10 @@ http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619603196_1597555908_kalaiisai copy.jpg" group-title="TLL LOCAL HD", Kalai Cinema Tv
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652845027_arasan.png" group-title="TLL LOCAL HD", Arasan TV
+http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="TLL LOCAL HD", Tamil Star TV
+http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL LOCAL HD", Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 #EXTINF:-1,group-title="TLL LOCAL HD", DHARANI TV 
@@ -192,25 +197,17 @@ http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL LOCAL HD",7 STAR SHARVESH 
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",PHOENIX 2
-http://new.7starcloud.com:1935/live/phoenixtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",ARASAN TV 
-http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
-#EXTINF:-1 group-title="TLL LOCAL HD",TAMIL STAR 
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",S TV 
 http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",SRV 
 http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",SANA TV 
-http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",CRS TV 
 http://183.87.51.10/hls/crstv.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD", DJEYAM TV 
 https://stream.sscloud7.com/hls/djeyam.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",ACCORD TAMIL TV 
 https://server1.iptelevision.in/hls/actv.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD", ACN CINEMA 4K
-http://198.144.149.82:8080/AMMA/ACNCINEMA/tracks-v1a1/2022/10/22/18/08/27-05400.ts?token=AMMA
 #EXTINF:-1 group-title="TLL LOCAL HD", MOON TV LOCAL
 http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8
 #EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" " group-title="TLL LOCAL HD", MONTAMIL HD
@@ -286,8 +283,8 @@ http://103.88.77.238:8081/phoenix/phoenix.m3u8
 http://shinestream.in:1935/mcvtv/mcvtv/chunklist_w1339989872.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO", lee tv 
 http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
-#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/aBLyB_mZjEDh1os6ST4OaKX81ARU_pNcZ627x-7tcaqB8-MccDwP5JH8gzKqqVdIgL0=w240-h480-rw" group-title="TLL Tamil LCO", VIP TV 
-http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602166664_VIP.png" group-title="TLL Tamil LCO", VIP Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",YESMAN TV 
 http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/xWUy2hdD4_TPBo--rcz8zS8VvgmreogUKQrIWdiEAwvtO5RxvvFr5rDT_QCDxxtV0w=w480-h960-rw" group-title="TLL Tamil LCO",ANANDHA 4K TV
