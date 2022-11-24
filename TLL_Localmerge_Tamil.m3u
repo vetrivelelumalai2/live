@@ -5,6 +5,10 @@ http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 http://server1.phoenixcreations.online:1935/live/malartv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1657428997_VinMusic.jpg" group-title="TLL MUSIC", VINAYAGA MUSIC TV 
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="TLL MUSIC",LIVESAI TV
+https://live.sscloud7.com/hls/livesaitv.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN 
+http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1,tvg-logo="" group-title="TLL MUSIC",SR MUSIX 
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="TLL MUSIC", Apple TV
@@ -41,8 +45,7 @@ http://bmlive.net:8000/karnan/karthimusic/bms.m3u8
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
 #EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="TLL MUSIC",LIVESAI TV
-https://live.sscloud7.com/hls/livesaitv.m3u8
+
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgMusic.jpeg?alt=media&token=0807ada0-4a77-4b78-a4a0-21822c54aedd" group-title="TLL MUSIC", G MUSIC TV 
 https://rasi.iptelevision.in/hls/gmusic.m3u8
 #EXTINF:-1, tvg-logo="https://austamil.tv/wp-content/uploads/2022/05/Aus-Logo.png" group-title="TLL MUSIC",AUS TAMIL 
@@ -625,10 +628,10 @@ http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",Orange TV
 http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",JM TV
+#EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/jm.png" group-title="TLL cloud tamil",JM TV
 http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 
-#EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",CTN 2
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctnconn.png" group-title="TLL cloud tamil", CTN(Connor)
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",Vaanavil TV
