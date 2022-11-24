@@ -224,11 +224,9 @@ http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
 http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnilaTv.png?alt=media&token=27e87778-8520-4dc0-be1e-88a528096bb6"  group-title="TLL LOCAL HD",NILA TV 
 http://131.153.22.8:1935/nilatv/nilalive/chunklist_w848564546.m3u8
-#EXTINF:-1 tvg-logo="http://harisofttecch.in/anumantv.png" group-title="TLL LOCAL HD",Anuman TV
-http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/8c488d864cbc0f663a2fc14a69723133.png" " group-title="TLL LOCAL HD", Durais TV
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664775945_durais.jpg" group-title="TLL LOCAL HD", Durais TV
 http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/8c488d864cbc0f663a2fc14a69723133.png" " group-title="TLL LOCAL HD", KRI Tamilan TV
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1597733672_tamilantv.png" group-title="TLL LOCAL HD", Tamilan TV
 http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrPlusTv.jpeg?alt=media&token=48235ab5-ad94-4665-8902-d8f571eecd6d" " group-title="TLL LOCAL HD", R Plus TV
 https://rasi.iptelevision.in/rpuls.m3u8
@@ -517,12 +515,9 @@ https://mobile.iptelevision.in/hls/accordvoice.m3u8
 http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL Tamil LCO",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/7OFxT3hc31CM9V4RjfWMBOgKYURUCXOYnq1t9IfU4IdbvkOjVqWxvdei0KXoKKYbJQ=w240-h480-rw" group-title="TLL Tamil LCO",Web TV
-https://account21.livebox.co.in/webadugatvhls/live.m3u8
+
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/8MKyZgBiyF45zhiQ2lgWRSt2aQlewF1sThE2mdDstYPnDwQ8uGYAOq_PawaeKJqJk9o=w240-h480-rw" group-title="TLL Tamil LCO",SAI Network TV
 https://account2.livebox.co.in/saitvhls/live.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/FvkjCrWmYV__Sl4_7wf0ScZrrHcHfYlo3-6JmRn0NkxTXJ7IGHLoMLqa576xrHXMU-dc=w240-h480-rw" group-title="TLL Tamil LCO",SAI Tenkasi TV
-https://live.sscloud7.com/hls/livesaitv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/O-pEvc6NETNI5O9k7wqilDq25ZYznJnu-OkSElxVY68arGiWuchQ1nFypWnp1pQf9CWo=w240-h480-rw" group-title="TLL Tamil LCO",JOS TV
 https://live.sscloud7.com/hls/jostv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/7qHJeBlm4sfbn7Uygt5K8cOyoSaAB8WUhtbYxPY7adxh43hDBy2LPSj-gSn5lR7tjdDE=w240-h480-rw" group-title="TLL Tamil LCO",SRI SHIVA SHAKTHI TV
@@ -603,8 +598,14 @@ http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",Kavin TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1636793200_kavin.jpg" group-title="TLL cloud tamil", Kavin TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1636794785_poli.png" group-title="TLL cloud tamil", Polimer Channel
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/7OFxT3hc31CM9V4RjfWMBOgKYURUCXOYnq1t9IfU4IdbvkOjVqWxvdei0KXoKKYbJQ=w240-h480-rw" group-title="TLL cloud tamil",Web TV
+https://account21.livebox.co.in/webadugatvhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",MAYA TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
