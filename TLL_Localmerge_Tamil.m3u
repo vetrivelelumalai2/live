@@ -21,8 +21,6 @@ https://server1.iptelevision.in/hls/chilly.m3u8
 http://singamcloud.in/singamtv/singamtv/index.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL MUSIC", Sachin Main TV
 http://server2.phoenixcreations.online:5080/live/streams/sachintv.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN 
-http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1,group-title="TLL MUSIC", ARUL TV 
 https://eagle.iptelevision.in/hls/arultv.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" " group-title="TLL MUSIC", SMCV TV
