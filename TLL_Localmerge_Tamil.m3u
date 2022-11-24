@@ -9,7 +9,7 @@ http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 https://live.sscloud7.com/hls/livesaitv.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN 
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
-#EXTINF:-1,tvg-logo="" group-title="TLL MUSIC",SR MUSIX 
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619361525_srmusic.jpg" group-title="TLL MUSIC", SR Musix
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="TLL MUSIC", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
@@ -121,6 +121,10 @@ http://bmlive.net:8000/appletv/jjmax/bms.m3u8
 
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844953_acncinima.png" group-title="TLL LOCAL HD", ACN Cinema
 http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562799_1597387259_7star copy.jpg" group-title="TLL LOCAL HD", 7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619603196_1597555908_kalaiisai copy.jpg" group-title="TLL LOCAL HD", Kalai Cinema Tv
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL LOCAL HD", Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 #EXTINF:-1,group-title="TLL LOCAL HD", DHARANI TV 
@@ -185,14 +189,10 @@ https://5c75277727cd1.streamlock.net/rcntv/rcntv/playlist.m3u8
 http://198.144.149.82:8080/NOTV/VEDHAKANCHI/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL LOCAL HD",VTV
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TLL LOCAL HD",7 STAR 
-http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",7 STAR SHARVESH 
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",PHOENIX 2
 http://new.7starcloud.com:1935/live/phoenixtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",KALAI CINEMA 
-http://singamcloud.in/kalai/kalaicinema/index.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",ARASAN TV 
 http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
 #EXTINF:-1 group-title="TLL LOCAL HD",TAMIL STAR 
