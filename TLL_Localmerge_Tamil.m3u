@@ -164,9 +164,9 @@ http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
 http://bmlive.net:8000/kumaritvthly/kumaritvthly/bms.m3u8?hls_ctx=64fdg988
 #EXTINF:-1,group-title="TLL LOCAL HD", SAMAR TV 
 http://51.79.250.111/live/kstartv.m3u8
-#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/I00x4xOOCxHw-nEcDBMndg-irC6wImgGySzt45Kcoa1y3mTPusVZhMV5oS1vFZRNBZM=w240-h480-rw" group-title="TLL LOCAL HD",SRI KRISHNA 1 
+#EXTINF:-1,tvg-logo = "https://harisofttecch.in/tamiltvlive//upload/1597421904_krishnatv.png" group-title="TLL LOCAL HD",SRI KRISHNA 1 
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/I00x4xOOCxHw-nEcDBMndg-irC6wImgGySzt45Kcoa1y3mTPusVZhMV5oS1vFZRNBZM=w240-h480-rw" group-title="TLL LOCAL HD",SRI KRISHNA 2
+#EXTINF:-1,tvg-logo = "https://harisofttecch.in/tamiltvlive//upload/1597421904_krishnatv.png" group-title="TLL LOCAL HD",SRI KRISHNA 2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1  group-title="TLL LOCAL HD", 7 HILLS
 http://139.99.96.93:1935/7hilstv/7hilstv/playlist.m3u8
@@ -485,8 +485,6 @@ http://198.144.149.82:8080/NOTV/STVMP/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/SRIARJUNTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL Tamil LCO",UDHAYAM TV
 http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", RISHI TV
-http://198.144.149.82:8080/NOTV/RISHITV/index.m3u8?token=GTR
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FroyalHd.png?alt=media&token=6648446d-5844-4fb6-9eae-c9f41a7acc39" " group-title="TLL Tamil LCO", Royal HD
 http://bmlive.net:8000/dsrchannel/theniroyal/bms.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdsrTv.png?alt=media&token=f8f05862-4ee0-4eeb-9765-0915702babc7" " group-title="TLL Tamil LCO", DSR TV
@@ -499,13 +497,7 @@ http://198.144.149.82:8080/NOTV/VAGAITV/tracks-v1a1/mono.m3u8?token=GTR
 http://tv2.massstream.net/Masstv/index.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/VXUE218YyNEKgAiKhS6P1Ai-gYUrx6bDw1nhfWaH7izIM5PUfVb0xvj44J1AkICyeKs=w480-h960-rw" tvg-id="1" group-title="TLL Tamil LCO",ACN TV
 rtmp://stream1.playbox.co.in:1935/babatv/babatv
-#EXTINF:-1, tvg-logo="http://www.vaigaitv.com/images/source/images/live-tv-01.jpg" " group-title="TLL Tamil LCO", Vaigai TV
-http://f0736070.xsph.ru/tll_local.php?ch=vaigai&pass=1234
-#EXTINF:-1, tvg-logo="http://www.vaigaitv.com/images/source/images/live-tv-01.jpg" " group-title="TLL Tamil LCO", Vaigai Virudhunagar TV
-http://f0736070.xsph.ru/tll_local.php?ch=virudhunagar&pass=1234
-#EXTINF:-1, tvg-logo="http://www.vaigaitv.com/images/source/images/live-tv-01.jpg" " group-title="TLL Tamil LCO", Vaigai Madurai TV
-http://f0736070.xsph.ru/tll_local.php?ch=madurai&pass=1234
-#EXTINF:-1,tvg-logo="https://play.google.com/store/apps/details?id=com.app.arunai.tv&hl=en" group-title="TLL Tamil LCO",Arunai TV
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/O8IWLJ0kdgOSMTZ_tr1V547Qgu3VLnQRx0-GMvoYgauNLIqKmEgXoXKcdA2MlvXT5t4=w240-h480-rw" group-title="TLL Tamil LCO",Arunai TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="TLL Tamil LCO",NRS TV
 https://live1.sscloud7.com/hls/nrstv.m3u8
