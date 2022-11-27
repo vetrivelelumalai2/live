@@ -501,13 +501,6 @@ rtmp://stream1.playbox.co.in:1935/babatv/babatv
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/arunaitvtvm_low/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="TLL Tamil LCO",NRS TV
 https://live1.sscloud7.com/hls/nrstv.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/Ak8-KveanR1axcKSz-fjqbEY9FCR-6rj7Trkr7f6TXJjIVQnFoVbFgmh8u2pmcD_R30=w240-h480-rw" group-title="TLL Tamil LCO",AccordVoice TV
-https://mobile.iptelevision.in/hls/accordvoice.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="TLL Tamil LCO",VDS TV
-http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL Tamil LCO",Suriyan Nextgen TV
-http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
-
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/8MKyZgBiyF45zhiQ2lgWRSt2aQlewF1sThE2mdDstYPnDwQ8uGYAOq_PawaeKJqJk9o=w240-h480-rw" group-title="TLL Tamil LCO",SAI Network TV
 https://account2.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/O-pEvc6NETNI5O9k7wqilDq25ZYznJnu-OkSElxVY68arGiWuchQ1nFypWnp1pQf9CWo=w240-h480-rw" group-title="TLL Tamil LCO",JOS TV
