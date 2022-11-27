@@ -122,8 +122,8 @@ http://bmlive.net:8000/appletv/jjmax/bms.m3u8
 http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562799_1597387259_7star copy.jpg" group-title="TLL LOCAL HD", 7Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619603196_1597555908_kalaiisai copy.jpg" group-title="TLL LOCAL HD", Kalai Cinema Tv
-http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD",ACCORD TAMIL TV 
+https://server1.iptelevision.in/hls/actv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/Ak8-KveanR1axcKSz-fjqbEY9FCR-6rj7Trkr7f6TXJjIVQnFoVbFgmh8u2pmcD_R30=w240-h480-rw" group-title="TLL LOCAL HD",AccordVoice TV
 https://mobile.iptelevision.in/hls/accordvoice.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="TLL LOCAL HD",VDS TV
@@ -134,13 +134,11 @@ http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL LOCAL HD", Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
-#EXTINF:-1,group-title="TLL LOCAL HD", DHARANI TV 
+#EXTINF:-1,tvg-logo = "https://i.ibb.co/kDLTPGT/DHARANI-tv.png" group-title="TLL LOCAL HD", DHARANI TV 
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
-#EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FasokaTv.jpeg?alt=media&token=e5cf545c-c2e2-4f0a-9bfb-a7fd52e572c4"group-title="TLL LOCAL HD", ASHOKA TV 
-http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8#EXTM3U
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/zDAnyaHHoDF0_pTrXGB_BR41BAfVbYWZfkxEp0ZW3RNLciv0TxFqc_-sx8AD_b1Is6dh=w240-h480-rw" group-title="TLL LOCAL HD",LOTUS TV 
 http://139.99.96.85:1935/lotustv/live/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",DEVADHAI TV 
+#EXTINF:-1,tvg-logo = "https://i.ibb.co/5FCfBgr/DEVADHAI-tv.png" group-title="TLL LOCAL HD",DEVADHAI TV 
 http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="TLL LOCAL HD", KARTHI TV 
 https://murugan.iptelevision.in/hls/karthik.m3u8 
@@ -148,8 +146,6 @@ https://murugan.iptelevision.in/hls/karthik.m3u8
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/E682c31psRuCXEARLqC54HLbgQyyiSFGiA-nJdTiCFWW9g3EWLoS955tdy_9VhdQFw=w240-h480-rw" group-title="TLL LOCAL HD", PR TV 
 http://51.79.250.111/live/prtv.m3u8
-#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/U7--vTQgnWuU3m4G53waPRm7zMxlPI7qf35fA5lhzd6co3w8CYkhqxRpaPEt_LdAepo=w240-h480-rw" group-title="TLL LOCAL HD", RPK TV 
-http://183.87.51.10/hls/rpktv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1632988452_Ntv logo.png" group-title="TLL LOCAL HD", N TV
 https://server3.iptelevision.in/hls/ntv.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",NSK TV 
@@ -208,10 +204,10 @@ http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
 http://183.87.51.10/hls/crstv.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD", DJEYAM TV 
 https://stream.sscloud7.com/hls/djeyam.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",ACCORD TAMIL TV 
-https://server1.iptelevision.in/hls/actv.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD", MOON TV LOCAL
 http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8
+#EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FasokaTv.jpeg?alt=media&token=e5cf545c-c2e2-4f0a-9bfb-a7fd52e572c4"group-title="TLL LOCAL HD", ASHOKA TV 
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" " group-title="TLL LOCAL HD", MONTAMIL HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD", ANBU TV 
@@ -287,6 +283,8 @@ http://server2.phoenixcreations.online:5080/live/streams/raghultv.m3u8
 http://server2.phoenixcreations.online:5080/live/streams/toptv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="TLL Tamil LCO",LIME TV
 http://server2.phoenixcreations.online:5080/live/streams/limetv.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/subashtv/img/core-img/subashtv.png" group-title="TLL Tamil LCO",Subash TV
+http://server2.phoenixcreations.online:5080/live/streams/subashtv.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/dFwaSTm2m91d1PrCHW-u6f3gwodMUA_uU9rtQyFkj5_de0E6U-SJh3KQlHtMNOXoug=w480-h960-rw" group-title="TLL Tamil LCO",BAMA HD TV
 http://livematrix.in:80/bamahd/bamahd.m3u8
 #EXTINF:-1,group-title="TLL Tamil LCO", RIO TV 
@@ -642,11 +640,6 @@ http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
 
 #EXTINF:-1 group-title="TLL cloud tamil",RASI MUSIC 
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
-
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/subashtv/img/core-img/subashtv.png" group-title="TLL cloud tamil",Subash TV
-http://server2.phoenixcreations.online:5080/live/streams/subashtv.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/sasitv.png" group-title="TLL cloud tamil", Sasi TV
-http://server2.phoenixcreations.online:5080/live/streams/sasitv.m3u8
 
 #EXTM3U
 #SriLanka
