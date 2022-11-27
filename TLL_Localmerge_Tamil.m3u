@@ -124,8 +124,12 @@ http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619603196_1597555908_kalaiisai copy.jpg" group-title="TLL LOCAL HD", Kalai Cinema Tv
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652845027_arasan.png" group-title="TLL LOCAL HD", Arasan TV
-http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/Ak8-KveanR1axcKSz-fjqbEY9FCR-6rj7Trkr7f6TXJjIVQnFoVbFgmh8u2pmcD_R30=w240-h480-rw" group-title="TLL LOCAL HD",AccordVoice TV
+https://mobile.iptelevision.in/hls/accordvoice.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="TLL LOCAL HD",VDS TV
+http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL LOCAL HD",Suriyan Nextgen TV
+http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="TLL LOCAL HD", Tamil Star TV
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL LOCAL HD", Reach TV
@@ -236,6 +240,8 @@ rtmp://live.singamcloud.in:1935/thenraltv/thenraltv
 rtmp://live.singamcloud.in:1935/anandhamtv/anandhamtv
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FluckyTV.jpeg?alt=media&token=cdb3ccd1-3381-41eb-901a-5da6a622c240" " group-title="TLL LOCAL HD", Lucky TV
 rtmp://singamcloud.in:1935/luckytv/luckytv
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652845027_arasan.png" group-title="TLL LOCAL HD", Arasan TV
+http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VMm3G7Pg3c3WnqyxWohnmCUDLTkVJjIc_85YnqbpMTTPr_kE3px5RZL88Sfc-H12-gM=w480-h960-rw" group-title="TLL LOCAL HD",Roja TV
 http://bmlive.net:8000/karnan/rojatv/bms.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ReC0sLVTEumA_zHAzZikfVjswWI-QiSbEhL7Nt8TCr0GDd3OVU7dK5_F23m1JhhvDqE=w240-h480-rw" group-title="TLL LOCAL HD",Ezhil TV
