@@ -491,8 +491,6 @@ http://bmlive.net:8000/dsrchannel/theniroyal/bms.m3u8
 http://bmlive.net:8000/dsrchannel/dino/bms.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FambikaTv.jpeg?alt=media&token=a5e106dd-fe14-4e31-82e3-0012b7087f6f" " group-title="TLL Tamil LCO", Ambika TV
 http://bmlive.net:8000/karnan/ambika/bms.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", HOLLYWOOD 4k TAMIL
-http://198.144.149.82:8080/NOTV/VAGAITV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1, tvg-logo="https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png" " group-title="TLL Tamil LCO", MASS TAMIL HD TV
 http://tv2.massstream.net/Masstv/index.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/VXUE218YyNEKgAiKhS6P1Ai-gYUrx6bDw1nhfWaH7izIM5PUfVb0xvj44J1AkICyeKs=w480-h960-rw" tvg-id="1" group-title="TLL Tamil LCO",ACN TV
