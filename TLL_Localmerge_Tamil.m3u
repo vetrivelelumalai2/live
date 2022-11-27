@@ -3,7 +3,7 @@
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1657428997_VinMusic.jpg" group-title="TLL MUSIC", VINAYAGA MUSIC TV 
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="TLL MUSIC",LIVESAI TV
+#EXTINF:-1, tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="TLL MUSIC",LIVESAI Music TV
 https://live.sscloud7.com/hls/livesaitv.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN 
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
