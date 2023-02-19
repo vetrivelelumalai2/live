@@ -1192,12 +1192,15 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies",MASS TV
 https://tv2.massstream.net/Masstv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies",Tharun Movies
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies",Analai Express TV
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="" group-title="Tamil Movies",Zee Thirai
 https://z5ak-live.zee5.com/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8?hdnts=st=1663404785~exp=1663407785~acl=/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8*~hmac=c96771a0af664d4755df50678733f59973388cff4ab15327bc9ffc4231e42e4f
+#EXTINF:-1 tvg-logo="" group-title="Tamil Movies",ktv vetrilink
+https://tamiltv.store/embed/3-mu6snuytcae0f
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Music",IBC Music
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
